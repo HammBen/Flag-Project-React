@@ -1,0 +1,98 @@
+export default [
+  {
+    name: "Ghana",
+    colors: ["#006B3F", "#FCD116", "#CE1126", "#0C2340"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/gh.png",
+    id: 1,
+  },
+  {
+    name: "United States",
+    colors: ["#B22234", "#FFFFFF", "#3C3B6E"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/us.png",
+    id: 2,
+  },
+  {
+    name: "Nigeria",
+    colors: ["#008751", "#FFFFFF"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/ng.png",
+    id: 3,
+  },
+  {
+    name: "France",
+    colors: ["#0055A4", "#FFFFFF", "#EF4135"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/fr.png",
+    id: 4,
+  },
+  {
+    name: "Brazil",
+    colors: ["#009B3A", "#FEDF00", "#002776"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/br.png",
+    id: 5,
+  },
+  {
+    name: "Russia",
+    colors: ["#FFFFFF", "#0039A6", "#D52B1E"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/ru.png",
+    id: 6,
+  },
+  {
+    name: "Ukraine",
+    colors: ["#005BBB", "#FFD500"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/ua.png",
+    id: 7,
+  },
+  {
+    name: "India",
+    colors: ["#FF9933", "#FFFFFF", "#128807"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/in.png",
+    id: 8,
+  },
+  {
+    name: "Mexico",
+    colors: ["#006847", "#FFFFFF", "#CE1126"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/mx.png",
+    id: 9,
+  },
+  {
+    name: "Canada",
+    colors: ["#FF0000", "#FFFFFF"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/ca.png",
+    id: 10,
+  },
+  {
+    name: "China",
+    colors: ["#DE2910", "#FFDE00"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/cn.png",
+    id: 11,
+  },
+  {
+    name: "Spain",
+    colors: ["#C60B1E", "#F1BF00", "#0072C6"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/es.png",
+    id: 12,
+  },
+  {
+    name: "Italy",
+    colors: ["#009246", "#FFFFFF", "#CE2B37"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/it.png",
+    id: 13,
+  },
+  {
+    name: "Germany",
+    colors: ["#000000", "#FFCE00", "#FF0000"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/de.png",
+    id: 14,
+  },
+  {
+    name: "Japan",
+    colors: ["#C32148", "#FFFFFF"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/jp.png",
+    id: 15,
+  },
+  {
+    name: "South Korea",
+    colors: ["#FFFFFF", "#000000", "#D72828", "#003478"],
+    flagImageUrl: "https://flagpedia.net/data/flags/h120/kr.png",
+    id: 16,
+  },
+];
